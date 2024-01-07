@@ -7,10 +7,10 @@
 bin/
 obj/
 
-PokeSearch.Data/obj/
-PokeSearch.Data/bin/
-PokeSearch.Domain/obj/
-PokeSearch.Domain/bin/
+PokeSearch.Data/obj/*
+PokeSearch.Data/bin/*
+PokeSearch.Domain/obj/*
+PokeSearch.Domain/bin/*
 # User-specific files
 *.rsuser
 *.suo
@@ -404,3 +404,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+bin/Debug/*
