@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/PokeSearch.Domain.csproj": {}
+  },
+  "projects": {
+    "/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Data/PokeSearch.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Data/PokeSearch.Data.csproj",
+        "projectName": "PokeSearch.Data",
+        "projectPath": "/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Data/PokeSearch.Data.csproj",
+        "packagesPath": "/home/juppo/.nuget/packages/",
+        "outputPath": "/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/juppo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/PokeSearch.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/PokeSearch.Domain.csproj",
+        "projectName": "PokeSearch.Domain",
+        "projectPath": "/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/PokeSearch.Domain.csproj",
+        "packagesPath": "/home/juppo/.nuget/packages/",
+        "outputPath": "/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/juppo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Data/PokeSearch.Data.csproj": {
+                "projectPath": "/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Data/PokeSearch.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/bin/Debug/net8.0/PokeSearch.Domain.deps.json
+/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/bin/Debug/net8.0/PokeSearch.Domain.dll
+/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/bin/Debug/net8.0/PokeSearch.Domain.pdb
+/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/bin/Debug/net8.0/PokeSearch.Data.dll
+/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/bin/Debug/net8.0/PokeSearch.Data.pdb
+/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/obj/Debug/net8.0/PokeSearch.Domain.csproj.AssemblyReference.cache
+/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/obj/Debug/net8.0/PokeSearch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/obj/Debug/net8.0/PokeSearch.Domain.csproj.CoreCompileInputs.cache
+/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/obj/Debug/net8.0/PokeSearch.Domain.csproj.CopyComplete
+/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/obj/Debug/net8.0/PokeSearch.Domain.dll
+/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/obj/Debug/net8.0/refint/PokeSearch.Domain.dll
+/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/obj/Debug/net8.0/PokeSearch.Domain.pdb
+/home/juppo/Dev/dotnet_projects/PokeSearch/PokeSearch.Domain/obj/Debug/net8.0/ref/PokeSearch.Domain.dll
