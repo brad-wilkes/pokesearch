@@ -8,9 +8,4 @@
         public string? Generation { get; set; }
     }
 
-    public interface IPokeDomainService
-    {
-        Task<List<Pokemon>> GetAllPokemonAsync();
-        Task<Pokemon> GetPokemonByIdAsync(int id);
-    }
 }

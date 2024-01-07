@@ -26,7 +26,7 @@ namespace PokeSearch
 
             services.AddScoped<IPokeDataService, PokeDataService>();
 
-            services.AddScoped<Domain.IPokeDomainService, PokeDomainService>();
+            services.AddScoped<IPokeDomainService, PokeDomainService>();
 
             services.AddSwaggerGen(c =>
             {
