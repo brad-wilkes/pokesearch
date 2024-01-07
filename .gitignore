@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+*.dll
+bin/
+obj/
+
+PokeSearch.Data/obj/
+PokeSearch.Data/bin/
+PokeSearch.Domain/obj/
+PokeSearch.Domain/bin/
 # User-specific files
 *.rsuser
 *.suo
