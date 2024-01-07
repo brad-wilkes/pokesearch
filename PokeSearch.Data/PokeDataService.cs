@@ -1,7 +1,3 @@
-using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-using System.Linq;
-
 namespace PokeSearch.Data
 {
     public class PokeDataService : IPokeDataService
@@ -13,7 +9,7 @@ namespace PokeSearch.Data
             _context = context;
         }
 
-        public List<PokemonDto> GetAllPokemons()
+        public List<PokemonDto> GetAllPokemon()
         {
             return _context.Pokemon.ToList();
         }

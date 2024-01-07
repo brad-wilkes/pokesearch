@@ -12,9 +12,9 @@ public class PokemonController : ControllerBase
 {
     private readonly IPokeDomainService _pokeDomainService;
 
-    public PokemonController(IPokeDomainService PokeDomainService)
+    public PokemonController(IPokeDomainService pokeDomainService)
     {
-        _pokeDomainService = PokeDomainService;
+        _pokeDomainService = pokeDomainService;
     }
 
     [HttpGet]
